@@ -1,6 +1,9 @@
 # Support and Bug Reports
 
-Use the repository's **Issues** section to report bugs or unexpected behavior.
+For feedback, bug reports or support, use either of these official channels:
+
+- The comments section on the MXPulse page at MXB-Mods
+- Discord: `ksost_`
 
 Please include:
 

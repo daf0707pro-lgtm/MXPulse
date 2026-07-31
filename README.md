@@ -16,9 +16,9 @@ MXPulse is a modern and highly customizable HUD plugin built for **MX Bikes**. I
 
 ## Download
 
-Download the ZIP package from the latest entry in the repository's **Releases** section. The package contains only the official MXPulse installer.
+Download the official installer directly from the latest GitHub Release. No ZIP extraction is required.
 
-**[Download MXPulse Alpha 0.37.3](https://github.com/daf0707pro-lgtm/MXPulse/releases/download/v0.37.3-alpha/MXPulse-Alpha-0.37.3.zip)**
+**[Download MXPulse](https://github.com/daf0707pro-lgtm/MXPulse/releases/latest/download/MXPulse_Setup.exe)**
 
 The installer automatically detects the MX Bikes folder, installs every required plugin and interface asset, and preserves existing MXPulse positions and preferences when updating.
 
@@ -43,12 +43,11 @@ Windows SmartScreen may display an unknown-publisher warning because the Alpha i
 ## Installation
 
 1. Close MX Bikes.
-2. Download the latest ZIP from **Releases**.
-3. Extract the ZIP and run the included installer.
-4. Confirm the detected MX Bikes installation folder.
-5. Launch MX Bikes and press **F9** to open MXPulse.
+2. Download and run `MXPulse_Setup.exe`.
+3. Confirm the detected MX Bikes installation folder.
+4. Launch MX Bikes and press **F9** to open MXPulse.
 
-To update MXPulse, download the newer ZIP and run its installer. Your saved HUD positions and preferences are preserved.
+To update MXPulse, download and run the latest installer again. Your saved HUD positions and preferences are preserved.
 
 ## Project Background
 
@@ -60,7 +59,16 @@ The MXPulse source code is **not included** in this repository. This repository 
 
 ## Alpha Notice
 
-MXPulse is under active development. Features, layouts and settings may continue to evolve. If you find a bug, please report it through the repository's **Issues** section and include the game mode, session type, number of riders and steps needed to reproduce it.
+MXPulse is under active development. Features, layouts and settings may continue to evolve.
+
+## Feedback and Support
+
+For feedback, bug reports or support, use either of these official channels:
+
+- The comments section on the MXPulse page at MXB-Mods
+- Discord: `ksost_`
+
+When reporting a bug, include the game mode, session type, approximate number of riders and the steps needed to reproduce it.
 
 ## Disclaimer
 
