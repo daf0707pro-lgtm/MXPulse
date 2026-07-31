@@ -2,7 +2,7 @@
 
 For feedback, bug reports or support, use either of these official channels:
 
-- The comments section on the MXPulse page at MXB-Mods
+- The comments section on the [official MXPulse page at MXB-Mods](https://mxb-mods.com/mxpulse/)
 - Discord: `ksost_`
 
 Please include:

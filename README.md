@@ -65,7 +65,7 @@ MXPulse is under active development. Features, layouts and settings may continue
 
 For feedback, bug reports or support, use either of these official channels:
 
-- The comments section on the MXPulse page at MXB-Mods
+- The comments section on the [official MXPulse page at MXB-Mods](https://mxb-mods.com/mxpulse/)
 - Discord: `ksost_`
 
 When reporting a bug, include the game mode, session type, approximate number of riders and the steps needed to reproduce it.
