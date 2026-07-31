@@ -1,0 +1,11 @@
+# Public distribution repository: deny everything by default.
+# Only the explicitly allowed documentation and artwork may be committed.
+*
+
+!.gitignore
+!README.md
+!CHANGELOG.md
+!LICENSE.md
+!SUPPORT.md
+!assets/
+!assets/mxpulse-thumbnail.png
