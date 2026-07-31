@@ -18,6 +18,8 @@ MXPulse is a modern and highly customizable HUD plugin built for **MX Bikes**. I
 
 Download the ZIP package from the latest entry in the repository's **Releases** section. The package contains only the official MXPulse installer.
 
+**[Download MXPulse Alpha 0.37.3](https://github.com/daf0707pro-lgtm/MXPulse/releases/download/v0.37.3-alpha/MXPulse-Alpha-0.37.3.zip)**
+
 The installer automatically detects the MX Bikes folder, installs every required plugin and interface asset, and preserves existing MXPulse positions and preferences when updating.
 
 Windows SmartScreen may display an unknown-publisher warning because the Alpha installer is not currently code-signed.
