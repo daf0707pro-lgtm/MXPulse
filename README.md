@@ -73,3 +73,7 @@ When reporting a bug, include the game mode, session type, approximate number of
 ## Disclaimer
 
 MXPulse is an unofficial community-made plugin and is not affiliated with or endorsed by PiBoSo or the MX Bikes developers.
+
+
+**inspired by thomas4f’s mxbmrp3**
+[https://mxb-mods.com/mxbmrp3/](url)
