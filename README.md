@@ -53,6 +53,9 @@ To update MXPulse, download and run the latest installer again. Your saved HUD p
 
 MXPulse began as a personal learning project — a way for me to study plugin development, understand real-time HUD systems, and improve my programming and interface-design skills through practice. It was never created with the intention of competing with, replacing, or taking attention away from any existing project. No source code was copied from any other plugin: MXPulse was independently written from the ground up, with its own architecture, interface, identity, and development direction. I have great respect for the developers and tools that have helped the community grow. What started as a programming exercise gradually evolved into a complete project that I am proud to develop and share with other MX Bikes players.
 
+**inspired by thomas4f’s mxbmrp3**
+[https://mxb-mods.com/mxbmrp3/](url)
+
 ## Source Code
 
 The MXPulse source code is **not included** in this repository. This repository is used exclusively for official binary releases, public documentation, artwork and issue tracking.
@@ -74,9 +77,3 @@ When reporting a bug, include the game mode, session type, approximate number of
 
 MXPulse is an unofficial community-made plugin and is not affiliated with or endorsed by PiBoSo or the MX Bikes developers.
 
-
-
-
-
-**inspired by thomas4f’s mxbmrp3**
-[https://mxb-mods.com/mxbmrp3/](url)
